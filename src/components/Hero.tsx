@@ -15,7 +15,7 @@ const Hero = () => {
         <div className='lg:block'></div>
         <div className='flex justify-center items-center text-[80px] sm:text-[80px] font-bold leading-tight p-4 md:p-10'>
           
-          <div className='animate-bounce'>
+          <div className='animate-bounce duration-1000'>
           
   
             <p>THIS IS</p>

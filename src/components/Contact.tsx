@@ -6,7 +6,7 @@ import { BsTelephoneInbound } from "react-icons/bs";
 
 const Contact = () => {
   return (
-    <div id='contact' className='container pt-32 animate-pulse'>
+    <div id='contact' className='container pt-32 '>
     <div className='grid md:grid-cols-2 gap-10'>
       <div className='space-y-8'>
         <h2 className='text-5xl'>GET IN TOUCH</h2>
